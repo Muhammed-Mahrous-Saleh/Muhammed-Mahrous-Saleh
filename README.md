@@ -2,7 +2,7 @@
 
 <h1>Hi 👋, I'm Mohammed</h1>
 <p>A passionate frontend developer from Egypt</p>
-![🌐 Portfolio](https://portfolio-flax-two-69.vercel.app/)
+<a href="https://portfolio-flax-two-69.vercel.app/">🌐 Portfolio</a>
 
 ## 🌐 Socials:
 
